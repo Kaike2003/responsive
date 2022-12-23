@@ -1,0 +1,20 @@
+@import url(header.css);
+@import url(container-section-icones.css);
+@import url(container-selected-work.css);
+@import url(container-selected-happy.css);
+@import url(container-selected-create.css);
+@import url(container-selected-get-started.css);
+@import url(container-selected-about-us.css);
+@import url(footer.css);
+@import url(header-sobre.css);
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: none;
+}
+
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 1.5;
+}

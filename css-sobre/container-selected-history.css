@@ -1,0 +1,34 @@
+.container-selected-history{
+    margin-top: 50px;
+    margin-bottom: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-history{
+    display: flex;
+    max-width: 1200px;
+    margin-right: 40px;
+    margin-left: 40px;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.container-history img{
+    width: 100%;
+}
+
+.container-history div{
+    flex: 1 1 450px;
+}
+
+.container-history p{
+    margin-top: 5px;
+    text-align: justify;
+}
+
+.container-history h2{
+    font-size: 35px;
+}
+

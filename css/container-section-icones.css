@@ -1,0 +1,54 @@
+
+section , .container-section-icones{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-section-icones{
+    max-width: 1200px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    gap: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+   
+}
+
+section .container-section-icones figure{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.container-section-icone{
+  
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+section figcaption{
+    text-align: justify;
+    
+}
+
+section div{
+    flex:  1 1 250px;
+}
+
+
+
+section h3{
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+section  img{
+    width: 15%;
+}
+
+

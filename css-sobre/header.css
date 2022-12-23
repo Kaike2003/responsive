@@ -1,0 +1,143 @@
+
+/*
+
+
+#header-sobre{
+    opacity: 90% ;
+    background-image: url(../imagens/imagem02.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center 50%;
+    width: 100%;
+    height: 900px;
+}
+
+#header-sobre .container-selected-sobre{
+    
+    color: white;
+    max-width: 1200px;
+    padding-bottom: 42vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+
+}
+
+
+#header-sobre .container-sobre, ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+
+ul{
+    list-style: none;
+    gap: 25px;
+    text-transform:uppercase; 
+}
+
+ul a{ 
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.2s;
+}
+
+ul a:hover, ul a:focus{ 
+    color: #f13239;
+    border-bottom: 1px solid #f13239;
+    padding-bottom: 4px;
+    
+}
+
+
+#header-sobre .container-selected-sobre .container-h1-sobre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 90px;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-top: 15vh;
+    color: white;
+    font-weight: 700;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+*/
+
+
+header{
+    opacity: 90% ;
+    background-image: url(../imagens/imagem02.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center 50%;
+    width: 100%;
+    height: 900px;
+ 
+}
+
+header .container{
+
+    color: white;
+    max-width: 1200px;
+    padding-bottom: 42vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+
+}
+
+header .container-conteudo, ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+
+
+ul{
+    list-style: none;
+    gap: 25px;
+    text-transform:uppercase; 
+}
+
+ul a{ 
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.2s;
+}
+
+
+ul a:hover, ul a:focus{ 
+    color: #f13239;
+    border-bottom: 1px solid #f13239;
+    padding-bottom: 4px;
+    
+}
+
+header .container .container-h1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 75px;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-top: 20vh;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-weight: 700;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+

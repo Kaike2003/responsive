@@ -1,0 +1,74 @@
+.container-selected-about-us{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-selected-about{
+ max-width: 1400px;
+ display: flex;
+ margin-right: 40px;
+    margin-left: 40px;
+
+}
+
+.container-selected-about div{
+    flex: 1 1 140px;    
+}
+
+.container-selected-about .container-selected-about-p1{
+    text-align: justify;
+}
+
+
+.container-selected-about .container-selected-about-ps{
+    display: flex;
+    gap: 3px;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center ;
+}
+
+.container-selected-about .container-selected-about-ps{
+    flex-wrap: 1 1 500px;
+}
+
+.container-selected-about .container-selected-about-midea{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    flex-wrap: wrap;
+    
+}
+
+.container-selected-about .container-selected-about-midea img{
+    width: 25%;
+}
+
+.container-selected-about .container-selected-about-midea div{
+    flex: 1 1 100px ;
+}
+
+.container-selected-about a{
+    color: black;
+
+}
+
+.container-selected-about1{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+
+}
+
+.container-selected-about-p1 {
+    color: black;
+}
+
+.selected-about2{
+    text-align: start;
+    padding-right: px;
+    
+}

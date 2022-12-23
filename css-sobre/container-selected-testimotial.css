@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+.container-selected-testimonial{
+    display: flex;
+    flex-direction: column;
+    background-color: #efefef;
+    margin-top: 8px;
+    padding-top: 40px;
+    padding-bottom: 90px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.container-selected-testimonial-chield{
+
+    max-width: 1200px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 80px;
+    padding-bottom: 5px ;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+}
+
+.container-selected-testimonial-chield figure img{
+    width: 13%;
+    height: 13%;
+    border-radius: 60%;
+}
+
+.container-selected-testimonial-chield figure figcaption, p{
+    font-size: 18px;
+    color: #6c757d;
+}
+
+.container-selected-testimonial h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+.container-selected-testimonial div{
+    flex: 1 1 400px;
+}
+
+.container-selected-testimonial .imagem-conteudo {
+   
+     display: flex;
+     column-gap: 15px;
+    margin-bottom: 15px;
+}
+
+.imagem-conteudo .p1{
+    font-weight: bolder; 
+}
+
+.container-selected-testimonial figcaption{
+    font-family: 'Roboto Mono', monospace;
+}
